@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "Pankaj",
+      "lastname": "Karivdekar",
+      "birthdate": "1983-10-05",
+      "gender": "m",
+      "education": "Diploma",
+      "company": "Nielsen",
+      "jobExperience": 12,
+      "salary": 12,
+      "profile": "user6.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "Amar ",
+      "lastname": "Tambe",
+      "birthdate": "1989-07-06",
+      "gender": "m",
+      "education": "Diploma",
+      "company": "BMC",
+      "jobExperience": "",
+      "salary": "",
+      "profile": "user2.jpg",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

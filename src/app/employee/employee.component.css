@@ -1,0 +1,20 @@
+.profile {
+  width: 115px;
+}
+
+img {
+  border-radius: 1rem;
+}
+
+table {
+  width: 90%;
+}
+
+.name {
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  border: 1px solid rgba(127, 127, 127, 0.415);
+  border-radius: 10px;
+  padding: 1px 2rem;
+}
